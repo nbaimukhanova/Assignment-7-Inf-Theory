@@ -10,4 +10,5 @@ Write a function called ErrorGen(percent, bitstring), which takes as input a bit
 3. (50 points) You will also need a function HammingDecode(bitstring) that takes 8 or 16 bit  number (the output of the channel) and returns a guess at the 4 or 11 bit number originally sent. Include all intermediate steps. 
 
 4.(20 points) Run functions HammingDecode and HammingDecode2 on all data blocks. Please  include all intermediate steps. The output should be the same as in the previous output (3), but  on all data blocks. 
+
 5. (10 points) Combine all of the decoded bitstrings into one sequence. Print it and save it in a txt  file. Compare it with the with the sequence of bits from assignment 3. 
